@@ -1,1 +1,1 @@
-# Npm-Yarn-Practice
+# Practice of npm/yarn package managers
